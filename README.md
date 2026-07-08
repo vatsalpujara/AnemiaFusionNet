@@ -29,7 +29,6 @@ Instead of standard vector concatenation, this network aligns the three modaliti
 ```text
 AnemiaFusionNet/
 │
-├──                              # Directory for raw conjunctiva images
 ├── diagnosed_cbc_data_v4.csv    # Tabular clinical CBC records
 ├── indiadata.csv                # NFHS-5 State-wise anemia statistics
 ├── anemia.ipynb                 # Core notebook: Data synthesis, model building, and training
